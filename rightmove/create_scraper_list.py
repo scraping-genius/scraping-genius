@@ -10,14 +10,14 @@ data = {
     # Copy paste the data from the website directly without any modification to train the scraper
     # or Write a short description of your required data, for example: "clinical trials results"
     "look_for": """|
-1/14
+1/42
 FEATURED PROPERTY
-£725,000
-City Road, London, EC1V
-Apartment
-1
-1
-Added on 21/07/2024
+£3,750,000
+Kensington Church Street, W8
+Flat
+4
+3
+Reduced on 03/12/2024
 Call
 Contact
 Save
@@ -72,17 +72,6 @@ Call
 Contact
 Save
 
-1/5
-£47,000,000
-One Hyde Park, Knightsbridge
-Apartment
-5
-5
-Added on 21/02/2025
-Call
-Contact
-Save
-
 |
 1/34
 £47,000,000
@@ -109,6 +98,17 @@ Call
 Contact
 Save
 
+1/5
+£47,000,000
+One Hyde Park, Knightsbridge
+Apartment
+5
+5
+Added on 21/02/2025
+Call
+Contact
+Save
+
 |
 1/29
 £44,000,000
@@ -124,7 +124,7 @@ Save
 1/14
 £42,000,000
 Guide Price
-Park Modern, Bayswater Road, London, W2
+Bayswater Road, London, W2
 Apartment
 5
 4
